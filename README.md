@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Mahajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align=right><img width="300px" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif"></p>
+<img align="right" width="300px" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
 
 - 🌱 I’m currently learning **HTML, Python, AI, DBMS**
 
